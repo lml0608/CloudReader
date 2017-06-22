@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\lb001\\.android\\build-cache\\dd0a0e508427a96f405fb890943c8a566dce78fa\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\lb001\\.android\\build-cache\\48eb6c8bcc7d8db019b671f7d847524b424424b1\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\lb001\\.android\\build-cache\\48eb6c8bcc7d8db019b671f7d847524b424424b1\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_fade_out.xml",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\anim\\push_fade_out.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\lb001\\.android\\build-cache\\dd0a0e508427a96f405fb890943c8a566dce78fa\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\screen_zoom_in.xml",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\anim\\screen_zoom_in.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\lb001\\.android\\build-cache\\48eb6c8bcc7d8db019b671f7d847524b424424b1\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\transition_anim.xml",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\anim\\transition_anim.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\lb001\\.android\\build-cache\\dd0a0e508427a96f405fb890943c8a566dce78fa\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\bs_list_item_in.xml",
+        "source": "C:\\Users\\lb001\\.android\\build-cache\\513c0ded3e6bc56d1e90a6b111333e01ac25e6a8\\output\\res\\anim\\bs_list_item_in.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dock_bottom_exit.xml",
+        "source": "C:\\Users\\lb001\\.android\\build-cache\\513c0ded3e6bc56d1e90a6b111333e01ac25e6a8\\output\\res\\anim\\dock_bottom_exit.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\lb001\\.android\\build-cache\\dd0a0e508427a96f405fb890943c8a566dce78fa\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\lb001\\.android\\build-cache\\dd0a0e508427a96f405fb890943c8a566dce78fa\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\bs_list_layout_anim_in.xml",
+        "source": "C:\\Users\\lb001\\.android\\build-cache\\513c0ded3e6bc56d1e90a6b111333e01ac25e6a8\\output\\res\\anim\\bs_list_layout_anim_in.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\lb001\\.android\\build-cache\\dd0a0e508427a96f405fb890943c8a566dce78fa\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_fade_in.xml",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\anim\\push_fade_in.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\lb001\\.android\\build-cache\\dd0a0e508427a96f405fb890943c8a566dce78fa\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dock_bottom_enter.xml",
+        "source": "C:\\Users\\lb001\\.android\\build-cache\\513c0ded3e6bc56d1e90a6b111333e01ac25e6a8\\output\\res\\anim\\dock_bottom_enter.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\screen_zoom_out.xml",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\anim\\screen_zoom_out.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\lb001\\.android\\build-cache\\dd0a0e508427a96f405fb890943c8a566dce78fa\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\lb001\\.android\\build-cache\\48eb6c8bcc7d8db019b671f7d847524b424424b1\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\lb001\\.android\\build-cache\\dd0a0e508427a96f405fb890943c8a566dce78fa\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\lb001\\.android\\build-cache\\48eb6c8bcc7d8db019b671f7d847524b424424b1\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\lb001\\.android\\build-cache\\48eb6c8bcc7d8db019b671f7d847524b424424b1\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\lb001\\.android\\build-cache\\dd0a0e508427a96f405fb890943c8a566dce78fa\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    }
+]

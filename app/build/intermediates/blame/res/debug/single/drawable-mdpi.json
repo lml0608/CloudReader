@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_cloudreader.png",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\drawable-mdpi\\ic_cloudreader.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\banner_grey.png",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\drawable-mdpi\\banner_grey.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\banner_red.png",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\drawable-mdpi\\banner_red.png"
+    }
+]

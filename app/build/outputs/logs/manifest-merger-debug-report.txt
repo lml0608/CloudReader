@@ -1,0 +1,263 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:2:1-101:12
+	package
+		ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.daimajia.slider:library:1.1.5] C:\Users\lb001\.android\build-cache\87d79b06984e173fb0e42604787131ebedebd43c\output\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:7:5-76
+	android:name
+		ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:7:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:8:5-76
+	android:name
+		ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:8:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:9:5-75
+	android:name
+		ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:9:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:10:5-81
+MERGED from [com.daimajia.slider:library:1.1.5] C:\Users\lb001\.android\build-cache\87d79b06984e173fb0e42604787131ebedebd43c\output\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:10:22-78
+application
+ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:12:5-99:19
+MERGED from [CloudReader.library:xrecyclerview:unspecified] D:\AndroidStudioProjects\CloudReader\library\xrecyclerview\build\intermediates\bundles\default\AndroidManifest.xml:11:5-15:19
+MERGED from [CloudReader.library:http:unspecified] D:\AndroidStudioProjects\CloudReader\library\http\build\intermediates\bundles\default\AndroidManifest.xml:11:5-15:19
+MERGED from [CloudReader.library:zoomlibrary:unspecified] D:\AndroidStudioProjects\CloudReader\library\zoomlibrary\build\intermediates\bundles\default\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:design:25.1.1] C:\Users\lb001\.android\build-cache\48eb6c8bcc7d8db019b671f7d847524b424424b1\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\lb001\.android\build-cache\dd0a0e508427a96f405fb890943c8a566dce78fa\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\lb001\.android\build-cache\a66c7feed8a634e59dffb2fac6e9ed33a5708af8\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\lb001\.android\build-cache\1adb6325ec4f41380c009951a6e877e8ed9f0772\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.1.1] C:\Users\lb001\.android\build-cache\725ce7df49702f65e2aaf2c24627b6e9e5ca3de0\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:25.1.1] C:\Users\lb001\.android\build-cache\05d614ab24f2052a30ddcba016a6360a9420928c\output\AndroidManifest.xml:22:5-20
+MERGED from [com.cocosw:bottomsheet:1.3.0] C:\Users\lb001\.android\build-cache\513c0ded3e6bc56d1e90a6b111333e01ac25e6a8\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\lb001\.android\build-cache\737c42fd2890f501f3e8c09ad2f4eb1855e3efbe\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\lb001\.android\build-cache\bf457f32277db3b8dabdda5ba556e66e4418d032\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\lb001\.android\build-cache\14ac5f3cb52043fea55eabf4a2e3eb573e59ccb5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\lb001\.android\build-cache\261171aa858771831b51abf559a52968216c98b7\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\lb001\.android\build-cache\236ee958beaac7cf77b1cc240c2fb99e4908e12d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\lb001\.android\build-cache\2a96e327415aab3736b6cc5bbd0d45f810f6e32e\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:16:9-41
+	android:supportsRtl
+		ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:18:9-35
+	android:allowBackup
+		ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:14:9-35
+	android:icon
+		ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:15:9-43
+	android:largeHeap
+		ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:17:9-33
+	android:theme
+		ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:19:9-40
+	android:name
+		ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:13:9-51
+activity#com.example.jingbin.cloudreader.MainActivity
+ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:22:9-25:52
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:25:13-49
+	android:label
+		ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:24:13-45
+	android:name
+		ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:23:13-41
+activity#com.example.jingbin.cloudreader.SplashActivity
+ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:26:9-35:20
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:28:13-49
+	android:theme
+		ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:29:13-51
+	android:name
+		ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:27:13-43
+activity#com.example.jingbin.cloudreader.ui.TransitionActivity
+ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:36:9-45:20
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:38:13-49
+	android:theme
+		ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:39:13-51
+	android:name
+		ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:37:13-50
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:40:13-44:29
+action#android.intent.action.MAIN
+ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:41:17-69
+	android:name
+		ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:41:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:43:17-77
+	android:name
+		ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:43:27-74
+activity#com.example.jingbin.cloudreader.base.BaseActivity
+ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:46:9-49:47
+	android:label
+		ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:48:13-56
+	android:theme
+		ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:49:13-44
+	android:name
+		ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:47:13-46
+activity#com.example.jingbin.cloudreader.ui.one.TestActivity
+ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:50:9-53:51
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:52:13-49
+	android:theme
+		ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:53:13-48
+	android:name
+		ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:51:13-48
+activity#com.example.jingbin.cloudreader.ui.one.SlideActivity
+ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:54:9-57:51
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:56:13-49
+	android:theme
+		ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:57:13-48
+	android:name
+		ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:55:13-49
+activity#com.example.jingbin.cloudreader.ui.one.SlideScrollViewActivity
+ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:58:9-61:51
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:60:13-49
+	android:theme
+		ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:61:13-48
+	android:name
+		ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:59:13-59
+activity#com.example.jingbin.cloudreader.ui.one.SlideShadeViewActivity
+ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:62:9-65:51
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:64:13-49
+	android:theme
+		ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:65:13-48
+	android:name
+		ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:63:13-58
+activity#com.example.jingbin.cloudreader.ui.one.MovieDetailActivity
+ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:66:9-69:51
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:68:13-49
+	android:theme
+		ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:69:13-48
+	android:name
+		ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:67:13-55
+activity#com.example.jingbin.cloudreader.view.viewbigimage.ViewBigImageActivity
+ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:70:9-73:54
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:72:13-49
+	android:theme
+		ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:73:13-51
+	android:name
+		ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:71:13-67
+activity#com.example.jingbin.cloudreader.view.webview.WebViewActivity
+ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:74:9-76:52
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:76:13-49
+	android:name
+		ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:75:13-57
+activity#com.example.jingbin.cloudreader.ui.one.DoubanTopActivity
+ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:77:9-79:52
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:79:13-49
+	android:name
+		ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:78:13-53
+activity#com.example.jingbin.cloudreader.ui.one.OneMovieDetailActivity
+ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:80:9-83:51
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:82:13-49
+	android:theme
+		ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:83:13-48
+	android:name
+		ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:81:13-58
+activity#com.example.jingbin.cloudreader.ui.menu.NavHomePageActivity
+ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:84:9-86:52
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:86:13-49
+	android:name
+		ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:85:13-56
+activity#com.example.jingbin.cloudreader.ui.menu.NavDeedBackActivity
+ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:87:9-89:52
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:89:13-49
+	android:name
+		ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:88:13-56
+activity#com.example.jingbin.cloudreader.ui.menu.NavAboutActivity
+ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:90:9-92:52
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:92:13-49
+	android:name
+		ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:91:13-53
+activity#com.example.jingbin.cloudreader.ui.book.child.BookDetailActivity
+ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:93:9-95:52
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:95:13-49
+	android:name
+		ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:94:13-61
+activity#com.example.jingbin.cloudreader.ui.menu.NavDownloadActivity
+ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:96:9-98:52
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:98:13-49
+	android:name
+		ADDED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:97:13-56
+uses-sdk
+INJECTED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [CloudReader.library:xrecyclerview:unspecified] D:\AndroidStudioProjects\CloudReader\library\xrecyclerview\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [CloudReader.library:http:unspecified] D:\AndroidStudioProjects\CloudReader\library\http\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [CloudReader.library:zoomlibrary:unspecified] D:\AndroidStudioProjects\CloudReader\library\zoomlibrary\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:25.1.1] C:\Users\lb001\.android\build-cache\48eb6c8bcc7d8db019b671f7d847524b424424b1\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\lb001\.android\build-cache\dd0a0e508427a96f405fb890943c8a566dce78fa\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\lb001\.android\build-cache\a66c7feed8a634e59dffb2fac6e9ed33a5708af8\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\lb001\.android\build-cache\1adb6325ec4f41380c009951a6e877e8ed9f0772\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\lb001\.android\build-cache\d9cc6a55c784a542912e2a865b61bfaaa684d39a\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.1.1] C:\Users\lb001\.android\build-cache\725ce7df49702f65e2aaf2c24627b6e9e5ca3de0\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:25.1.1] C:\Users\lb001\.android\build-cache\05d614ab24f2052a30ddcba016a6360a9420928c\output\AndroidManifest.xml:20:5-43
+MERGED from [io.reactivex:rxandroid:1.2.0] C:\Users\lb001\.android\build-cache\170a57c98b1fb3e8570688624681fc71fdf8ee0d\output\AndroidManifest.xml:19:5-43
+MERGED from [jp.wasabeef:glide-transformations:2.0.1] C:\Users\lb001\.android\build-cache\048a005570c52967a56021e59081b30dff9cdad0\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.youth.banner:banner:1.4.2] C:\Users\lb001\.android\build-cache\af4625047e63a98c3f38f145cf11ab0c3f9a24e3\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.daimajia.slider:library:1.1.5] C:\Users\lb001\.android\build-cache\87d79b06984e173fb0e42604787131ebedebd43c\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.cocosw:bottomsheet:1.3.0] C:\Users\lb001\.android\build-cache\513c0ded3e6bc56d1e90a6b111333e01ac25e6a8\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.databinding:adapters:1.3.1] C:\Users\lb001\.android\build-cache\eea30e014260b1881eedd5cab4b07322add98353\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.databinding:library:1.3.1] C:\Users\lb001\.android\build-cache\abc18bc0242e53016c32ff5f3cc123de49140943\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\lb001\.android\build-cache\737c42fd2890f501f3e8c09ad2f4eb1855e3efbe\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\lb001\.android\build-cache\bf457f32277db3b8dabdda5ba556e66e4418d032\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\lb001\.android\build-cache\14ac5f3cb52043fea55eabf4a2e3eb573e59ccb5\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\lb001\.android\build-cache\261171aa858771831b51abf559a52968216c98b7\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\lb001\.android\build-cache\236ee958beaac7cf77b1cc240c2fb99e4908e12d\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\lb001\.android\build-cache\2a96e327415aab3736b6cc5bbd0d45f810f6e32e\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.1.1] C:\Users\lb001\.android\build-cache\48eb6c8bcc7d8db019b671f7d847524b424424b1\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\lb001\.android\build-cache\dd0a0e508427a96f405fb890943c8a566dce78fa\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\lb001\.android\build-cache\a66c7feed8a634e59dffb2fac6e9ed33a5708af8\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\lb001\.android\build-cache\1adb6325ec4f41380c009951a6e877e8ed9f0772\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\lb001\.android\build-cache\d9cc6a55c784a542912e2a865b61bfaaa684d39a\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\lb001\.android\build-cache\737c42fd2890f501f3e8c09ad2f4eb1855e3efbe\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\lb001\.android\build-cache\bf457f32277db3b8dabdda5ba556e66e4418d032\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\lb001\.android\build-cache\14ac5f3cb52043fea55eabf4a2e3eb573e59ccb5\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\lb001\.android\build-cache\261171aa858771831b51abf559a52968216c98b7\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\lb001\.android\build-cache\236ee958beaac7cf77b1cc240c2fb99e4908e12d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\lb001\.android\build-cache\2a96e327415aab3736b6cc5bbd0d45f810f6e32e\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\lb001\.android\build-cache\dd0a0e508427a96f405fb890943c8a566dce78fa\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\lb001\.android\build-cache\dd0a0e508427a96f405fb890943c8a566dce78fa\output\AndroidManifest.xml:26:9-47
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from D:\AndroidStudioProjects\CloudReader\app\src\main\AndroidManifest.xml:2:1-101:12 reason: com.daimajia.slider.library requested WRITE_EXTERNAL_STORAGE

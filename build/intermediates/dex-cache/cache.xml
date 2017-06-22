@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\lb001\.android\build-cache\725ce7df49702f65e2aaf2c24627b6e9e5ca3de0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="D:\AndroidStudioProjects\CloudReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d283cbb4498f6885079d60d019139b6f2630c914\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\CloudReader\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\AndroidStudioProjects\CloudReader\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_12ce41249740ced4ad5a8f24e96ffc0c870f9fd1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lb001\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="D:\AndroidStudioProjects\CloudReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.1.0_76db1f49dd2b47f7242f59dc78defa9aba3f1c16\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lb001\.android\build-cache\170a57c98b1fb3e8570688624681fc71fdf8ee0d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="927e8ef5711b115b65b2f35495d77352be2b3c09">
+        <dex dex="D:\AndroidStudioProjects\CloudReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_879b8d207deb94db6012906efb04218739fabe85\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lb001\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.2\ccde00f7ccc77af5a6d5752e2cb21f6d8998289f\okhttp-3.4.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ccde00f7ccc77af5a6d5752e2cb21f6d8998289f">
+        <dex dex="D:\AndroidStudioProjects\CloudReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.4.2_497c611eb87d93f11fa2cbab7e8fc162286e5d0a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\sdk\build-tools\25.0.2\renderscript\lib\renderscript-v8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="05668b8cd6c7b07f152b6a5b4c6cff620817ba0f">
+        <dex dex="D:\AndroidStudioProjects\CloudReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\renderscript-v8_9f491edd14368e3c8826a2a27a3522247103732b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lb001\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.11.0\840897fcd7223a8143f1d9b6f69714e7be34fd50\okio-1.11.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="D:\AndroidStudioProjects\CloudReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.11.0_9eaee988670041bd8edd2fb48582ef74024728bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lb001\.android\build-cache\87d79b06984e173fb0e42604787131ebedebd43c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="08962e03b6a954c65d4944e092879b7f5ee1208d">
+        <dex dex="D:\AndroidStudioProjects\CloudReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_67e83e066e95b837a2c046f1b9a163bb8392bd11\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\android\databinding\baseLibrary\2.3.3\baseLibrary-2.3.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb3399988a52099b0127e27fb5bed666eca86ace">
+        <dex dex="D:\AndroidStudioProjects\CloudReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\baseLibrary-2.3.3_cc3afaf91424e734a49c56928e36b4d96c0d272b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lb001\.android\build-cache\d9cc6a55c784a542912e2a865b61bfaaa684d39a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="D:\AndroidStudioProjects\CloudReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a26f6ae8299e0c9cf6386a6a1c6915a6dc54b30e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lb001\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="D:\AndroidStudioProjects\CloudReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.8.0_7d50fe4e1fa0d61acc4b7bcc352e33b7dc4f7d4e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lb001\.android\build-cache\48eb6c8bcc7d8db019b671f7d847524b424424b1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="D:\AndroidStudioProjects\CloudReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1ab452b66abeb38ca8f333470b80069eddf2a9fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lb001\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\AndroidStudioProjects\CloudReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_d4a03ba1501490a597c92f88a522b8469996b47a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lb001\.android\build-cache\14ac5f3cb52043fea55eabf4a2e3eb573e59ccb5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\AndroidStudioProjects\CloudReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_92b0b5f6f082ee9ae19b123f48b17545d05aea79\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lb001\.android\build-cache\2a96e327415aab3736b6cc5bbd0d45f810f6e32e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\AndroidStudioProjects\CloudReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2e6b93d3e329beedd95cb3ebecbb2969dc70cc63\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lb001\.android\build-cache\513c0ded3e6bc56d1e90a6b111333e01ac25e6a8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="37a4672e2ae8d65082bd66183d12fcd5d106a336">
+        <dex dex="D:\AndroidStudioProjects\CloudReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d20c4774687a321aacac189dd8ca313e641df2a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lb001\.android\build-cache\eea30e014260b1881eedd5cab4b07322add98353\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="68956f5ba1517b7a3d513ba540548e257741cbae">
+        <dex dex="D:\AndroidStudioProjects\CloudReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d28ff73ee80e382ff2289fcd5d413d33f0aa4859\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lb001\.android\build-cache\236ee958beaac7cf77b1cc240c2fb99e4908e12d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\AndroidStudioProjects\CloudReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d439d62c1965b79c099a5cb6ba0ffa85158e968d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lb001\.android\build-cache\af4625047e63a98c3f38f145cf11ab0c3f9a24e3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e68112d7f0501ed46b88e4225cfbae629c240e5">
+        <dex dex="D:\AndroidStudioProjects\CloudReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ae8ecffb2a44d30b6a9d90d1a157266cd4d87e41\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lb001\.android\build-cache\048a005570c52967a56021e59081b30dff9cdad0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="df451c6f391e3e32022fc964ed87bd57a5869128">
+        <dex dex="D:\AndroidStudioProjects\CloudReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cf5a2148e8e4b5b1013ca2d50791c059f9bac423\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\AndroidStudioProjects\CloudReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_749f92721abc8a389255a48e6bc4f467c7c672e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lb001\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.1\2287494d4f5f9f3a9a2bb6980e3f32053721b315\core-3.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="D:\AndroidStudioProjects\CloudReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\core-3.2.1_878771986eec9d8c1c97f89d54ced8b496944d47\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lb001\.android\build-cache\05d614ab24f2052a30ddcba016a6360a9420928c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
+        <dex dex="D:\AndroidStudioProjects\CloudReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_62f550ad905a555846190bdb02616996d3856c73\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lb001\.android\build-cache\737c42fd2890f501f3e8c09ad2f4eb1855e3efbe\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\AndroidStudioProjects\CloudReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_37b60f552248a4596394887aeb7bde5b1bd58fc7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lb001\.android\build-cache\a66c7feed8a634e59dffb2fac6e9ed33a5708af8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\AndroidStudioProjects\CloudReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dc080bea002d7236e00a51db9b0f6e5945728ef2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lb001\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\adapter-rxjava\2.1.0\693eddc23e87ab13f9cf5001707ce8e7e1d1ff01\adapter-rxjava-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
+        <dex dex="D:\AndroidStudioProjects\CloudReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\adapter-rxjava-2.1.0_78c2be1da7d6907b318df45876d72fd1e2cb5caf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lb001\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="D:\AndroidStudioProjects\CloudReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-2.4.0_545f143ef6788c845d35c32506a99f3b55b15c35\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lb001\.android\build-cache\dd0a0e508427a96f405fb890943c8a566dce78fa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\AndroidStudioProjects\CloudReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9e2973dcd24c521913de69d7a89f7c830c101000\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\CloudReader\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a216704738ac3ce5fcde04f4e7b66d64e2f18f64">
+        <dex dex="D:\AndroidStudioProjects\CloudReader\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_a19629ff4809cb8787ffc0c1ec67619bf3c0f43e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lb001\.android\build-cache\bf457f32277db3b8dabdda5ba556e66e4418d032\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\AndroidStudioProjects\CloudReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_246087c145b95e8b568c8d0db40a1e5eb24da0b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lb001\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.5\ece7b5d0870e66d8226dab6dcf47a2b12afff061\rxjava-1.1.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ece7b5d0870e66d8226dab6dcf47a2b12afff061">
+        <dex dex="D:\AndroidStudioProjects\CloudReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\rxjava-1.1.5_6a7eac0d8237bd853c33bf7fe33b56b847b70807\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lb001\.android\build-cache\abc18bc0242e53016c32ff5f3cc123de49140943\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7f2f348b830f292429db987f74ba3e67c6752322">
+        <dex dex="D:\AndroidStudioProjects\CloudReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b0128558210ae01db4e42ac05fad8f89802e83f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lb001\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.4.1\381fc1096ba65040d8e80ea43b2e1d9bad02345e\logging-interceptor-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="381fc1096ba65040d8e80ea43b2e1d9bad02345e">
+        <dex dex="D:\AndroidStudioProjects\CloudReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\logging-interceptor-3.4.1_cb55d8cf8ac2582a00a4b7f69eed11cf28e33a55\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lb001\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="D:\AndroidStudioProjects\CloudReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.1.0_069b03bc773782595896ff7723d2aa06bb1afb9c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lb001\.android\build-cache\1adb6325ec4f41380c009951a6e877e8ed9f0772\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\AndroidStudioProjects\CloudReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_920c72863455c511a6ebcdbdb3f9ac67d083172c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lb001\.android\build-cache\261171aa858771831b51abf559a52968216c98b7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\AndroidStudioProjects\CloudReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b419f3147622cc893b0c603925caa50a1488db6e\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\bs_list_selector.xml",
+        "source": "C:\\Users\\lb001\\.android\\build-cache\\513c0ded3e6bc56d1e90a6b111333e01ac25e6a8\\output\\res\\drawable-v21\\bs_list_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\lb001\\.android\\build-cache\\dd0a0e508427a96f405fb890943c8a566dce78fa\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_camera.xml",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\lb001\\.android\\build-cache\\48eb6c8bcc7d8db019b671f7d847524b424424b1\\output\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_manage.xml",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\drawable-v21\\ic_menu_manage.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_gallery.xml",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\drawable-v21\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\lb001\\.android\\build-cache\\48eb6c8bcc7d8db019b671f7d847524b424424b1\\output\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\lb001\\.android\\build-cache\\dd0a0e508427a96f405fb890943c8a566dce78fa\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_slideshow.xml",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\drawable-v21\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\lb001\\.android\\build-cache\\dd0a0e508427a96f405fb890943c8a566dce78fa\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_send.xml",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\drawable-v21\\ic_menu_send.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_share.xml",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\drawable-v21\\ic_menu_share.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\lb001\\.android\\build-cache\\dd0a0e508427a96f405fb890943c8a566dce78fa\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\lb001\\.android\\build-cache\\48eb6c8bcc7d8db019b671f7d847524b424424b1\\output\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ripple_one_item_bg.xml",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\drawable-v21\\ripple_one_item_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\bs_list_dark_selector.xml",
+        "source": "C:\\Users\\lb001\\.android\\build-cache\\513c0ded3e6bc56d1e90a6b111333e01ac25e6a8\\output\\res\\drawable-v21\\bs_list_dark_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\lb001\\.android\\build-cache\\48eb6c8bcc7d8db019b671f7d847524b424424b1\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ripple_item_white_bg.xml",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\drawable-v21\\ripple_item_white_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ripple_tab_bg.xml",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\drawable-v21\\ripple_tab_bg.xml"
+    }
+]

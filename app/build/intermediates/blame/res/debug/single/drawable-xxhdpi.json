@@ -1,0 +1,246 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\actionbar_more.png",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\drawable-xxhdpi\\actionbar_more.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\img_default_movie.png",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\drawable-xxhdpi\\img_default_movie.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_back.png",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\drawable-xxhdpi\\icon_back.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_tag_normal.png",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\drawable-xxhdpi\\icon_tag_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\loading_everyday_red.png",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\drawable-xxhdpi\\loading_everyday_red.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_cloudreader_mip.png",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\drawable-xxhdpi\\ic_cloudreader_mip.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\home_icon_rank_prs.png",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\drawable-xxhdpi\\home_icon_rank_prs.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_nav_homepage.png",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\drawable-xxhdpi\\ic_nav_homepage.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\img_default_meizi.png",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\drawable-xxhdpi\\img_default_meizi.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\img_two_bi_one.png",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\drawable-xxhdpi\\img_two_bi_one.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\load_err.png",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\drawable-xxhdpi\\load_err.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\home_icon_day_prs.png",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\drawable-xxhdpi\\home_icon_day_prs.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_catalogue_bottom.png",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\drawable-xxhdpi\\ic_catalogue_bottom.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_checked.png",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\drawable-xxhdpi\\ic_checked.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\home_arrow_right.png",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\drawable-xxhdpi\\home_arrow_right.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_nav_deedback.png",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\drawable-xxhdpi\\ic_nav_deedback.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\titlebar_friends_selected.png",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\drawable-xxhdpi\\titlebar_friends_selected.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_nav_scan.png",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\drawable-xxhdpi\\ic_nav_scan.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\titlebar_friends_prs.png",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\drawable-xxhdpi\\titlebar_friends_prs.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\img_four_bi_three.png",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\drawable-xxhdpi\\img_four_bi_three.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\home_title_app.png",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\drawable-xxhdpi\\home_title_app.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\titlebar_music_normal.png",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\drawable-xxhdpi\\titlebar_music_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_nav_bg_drawerlayout.png",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\drawable-xxhdpi\\ic_nav_bg_drawerlayout.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\home_title_all.png",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\drawable-xxhdpi\\home_title_all.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_avatar_default.png",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\drawable-xxhdpi\\ic_avatar_default.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\loading_image.png",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\drawable-xxhdpi\\loading_image.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\loading_everyday.png",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\drawable-xxhdpi\\loading_everyday.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\img_default_book.png",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\drawable-xxhdpi\\img_default_book.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\titlebar_music_prs.png",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\drawable-xxhdpi\\titlebar_music_prs.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\titlebar_music_selected.png",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\drawable-xxhdpi\\titlebar_music_selected.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\titlebar_friends_normal.png",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\drawable-xxhdpi\\titlebar_friends_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_tag_checked.png",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\drawable-xxhdpi\\icon_tag_checked.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\titlebar_discover_prs.png",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\drawable-xxhdpi\\titlebar_discover_prs.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\homepage_header.png",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\drawable-xxhdpi\\homepage_header.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\img_one_bi_one.png",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\drawable-xxhdpi\\img_one_bi_one.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_cloudreader.png",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\drawable-xxhdpi\\ic_cloudreader.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\home_title_xia.png",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\drawable-xxhdpi\\home_title_xia.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\home_title_source.png",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\drawable-xxhdpi\\home_title_source.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_nav_about.png",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\drawable-xxhdpi\\ic_nav_about.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\actionbar_search.png",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\drawable-xxhdpi\\actionbar_search.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_tag_hot.png",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\drawable-xxhdpi\\icon_tag_hot.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_nav_login.png",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\drawable-xxhdpi\\ic_nav_login.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_nav_night.png",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\drawable-xxhdpi\\ic_nav_night.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\home_title_android.png",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\drawable-xxhdpi\\home_title_android.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_nav_exit.png",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\drawable-xxhdpi\\ic_nav_exit.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\home_icon_day.png",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\drawable-xxhdpi\\home_icon_day.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\home_title_movie.png",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\drawable-xxhdpi\\home_title_movie.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\home_icon_fm_prs.png",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\drawable-xxhdpi\\home_icon_fm_prs.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_catalogue.png",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\drawable-xxhdpi\\ic_catalogue.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\stackblur_default.png",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\drawable-xxhdpi\\stackblur_default.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\titlebar_discover_normal.png",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\drawable-xxhdpi\\titlebar_discover_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\home_icon_fm.png",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\drawable-xxhdpi\\home_icon_fm.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\titlebar_discover_selected.png",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\drawable-xxhdpi\\titlebar_discover_selected.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\actionbar_share.png",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\drawable-xxhdpi\\actionbar_share.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_cylinder.png",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\drawable-xxhdpi\\ic_cylinder.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\home_icon_rank.png",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\drawable-xxhdpi\\home_icon_rank.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\home_title_ios.png",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\drawable-xxhdpi\\home_title_ios.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\home_title_qian.png",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\drawable-xxhdpi\\home_title_qian.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\home_title_meizi.png",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\drawable-xxhdpi\\home_title_meizi.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\home_arrow_right_gray.png",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\drawable-xxhdpi\\home_arrow_right_gray.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\titlebar_menu.png",
+        "source": "D:\\AndroidStudioProjects\\CloudReader\\app\\src\\main\\res\\drawable-xxhdpi\\titlebar_menu.png"
+    }
+]
